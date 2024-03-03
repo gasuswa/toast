@@ -1,0 +1,23 @@
+{
+  "name": "toast-not",
+  "version": "1.0.0",
+  "description": "toast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gasuswa/toast.git"
+  },
+  "dependencies": {
+    "checker-che": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gasuswa/toast/issues"
+  },
+  "homepage": "https://github.com/gasuswa/toast#readme"
+}
